@@ -9,3 +9,4 @@ Note that Mars is quite dry and rocky with numerous craters so this is already a
 draws rectangular shapes on the satellite image to extract statistics and on elevation and surface roughness.
 A grayscale image of a MOLA map is used my the Marsproject.py to select landing site rectangles and shaded color map to post them, and elevation is much easier to represent in grayscale image than RGB image(color image).
 The colored image is then use to show the processed results.
+A simulation for selecting Martian landing sites for NASA.
